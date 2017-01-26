@@ -55,7 +55,7 @@ public class AddressBook {
      * A platform independent line separator.
      */
     private static final String LS = System.lineSeparator() + LINE_PREFIX;
-
+    
     /*
      * NOTE : ==================================================================
      * These messages shown to the user are defined in one place for convenient
